@@ -9,6 +9,8 @@ The script is standalone and can be executed in a python environment with the nu
 
 Function of the script was tested in Jupyter Notebook v. 6.4.8 with Python 3.9.12. 
 
+
+
 Data sets used from the following publications:
 
 **Festa, R.A. et al.** Prokaryotic ubiquitin-like protein (Pup) proteome of Mycobacterium tuberculosis. *PLoS One 5*, e8589 (2010), https://doi.org/10.1371/journal.pone.0008589.
