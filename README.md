@@ -1,4 +1,4 @@
-# PupStastics
+# PupStatistics
 
 The provided script is part of the data analysis for the manuscript "Electrostatic interactions guide substrate recognition of the prokaryotic ubiquitin-like protein ligase PafA".
 
