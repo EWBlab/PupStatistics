@@ -21,4 +21,4 @@ Data sets used from the following publications:
 
 **Schubert, O.T. et al.** The Mtb proteome library: a resource of assays to quantify the complete proteome of Mycobacterium tuberculosis. *Cell Host Microbe 13*, 602-612 (2013), https://doi.org/10.1016/j.chom.2013.04.008.
 
-**Cole, S.T. et al.** Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence (vol 393, pg 537, 1998). *Nature 396*, 190-198 (1998).
+**Cole, S.T. et al.** Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence (vol 393, pg 537, 1998). *Nature 396*, 190-198 (1998), https://doi.org/10.1038/31159.
